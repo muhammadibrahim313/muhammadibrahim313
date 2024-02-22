@@ -60,10 +60,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/AXorq76Tg3Vte/giphy.gif?cid=ecf05e47cd5ra5vy2ygcczqmwedhqzjposbff9vxmjxphuyz&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
