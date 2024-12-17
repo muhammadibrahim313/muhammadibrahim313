@@ -100,6 +100,13 @@
 </p>
   </a>
 </p>
+
+
+## 🔝 Top Contributed Repo
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ahmad-Fakhar&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
 <p align="center">
   <a href="https://github.com/muhammadibrahim313">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadibrahim313&theme=github_dark" />
