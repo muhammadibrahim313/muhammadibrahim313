@@ -78,12 +78,12 @@
 </p>
 
 <h3 align="left">GitHub Analytics:</h3>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/muhammadibrahim313">
     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=muhammadibrahim313&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
     
   </a>
-</p>
+</p> -->
 <p align="center">
   <a href="https://github.com/muhammadibrahim313">
     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=muhammadibrahim313&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
