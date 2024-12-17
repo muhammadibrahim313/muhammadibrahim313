@@ -105,7 +105,7 @@
 ## 🔝 Top Contributed Repo
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=muhammadibrahim313&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=muhammadibrahim313&limit=5&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Top Contributed Repo" />
 </div>
 <p align="center">
   <a href="https://github.com/muhammadibrahim313">
