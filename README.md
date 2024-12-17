@@ -81,6 +81,11 @@
 <!-- <p align="center">
   <a href="https://github.com/muhammadibrahim313">
     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=muhammadibrahim313&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+## 🔝 Top Contributed Repo
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=muhammadibrahim313&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
     
   </a>
 </p> -->
