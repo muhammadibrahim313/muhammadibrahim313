@@ -16,7 +16,7 @@ At 20, I've already redefined what's possible in the world of data science. <br>
 ### From Zero to Global Recognition
 - 🌍 **Youngest Global Kaggle Grandmaster** (Rank #20 Worldwide)
 - 🔥 Transformed from a curious student to an AI innovation powerhouse
-- 🏅 5x International Hackathon Champion (GPT4o, Edge Runners, IBM watsonx)
+- 🏅 5x International Hackathon Champion 
 - ## 🏆 Top 40th GitHub Contributor in Pakistan 🇵🇰  
 Proud to be recognized among Pakistan’s top GitHub contributors! 🎉  
 
