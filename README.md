@@ -1,12 +1,23 @@
 
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&text=Muhammad%20Ibrahim%20Qasmi&fontAlign=50&fontSize=44&fontColor=ffffff&desc=AI%20Engineer%20•%20Data%20Scientist%20•%203x%20Kaggle%20GM&descAlign=50&descAlignY=70"
-    alt="Muhammad Ibrahim Qasmi | AI Engineer and Data Scientist"
-    width="1440"
-  >
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Muhammad%20Ibrahim%20Qasmi&fontSize=52&fontColor=ffffff&color=0:0b1220,35:0a2540,70:0ea5e9,100:38bdf8&animation=fadeIn"
+    alt="Muhammad Ibrahim Qasmi — AI Engineer and Data Scientist"
+    width="1440">
 </p>
+
+<h3 align="center">AI Engineer • Data Scientist • 3x Kaggle GM</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibrahimqasmi313/"><img src="https://img.shields.io/badge/LinkedIn-ibrahimqasmi313-0ea5e9?logo=linkedin&labelColor=0d1117"></a>
+  <a href="mailto:oppoibrahim23@gmail.com"><img src="https://img.shields.io/badge/Email-oppoibrahim23%40gmail.com-38bdf8?logo=gmail&labelColor=0d1117"></a>
+  <a href="https://linktr.ee/ibrahim_qasmi"><img src="https://img.shields.io/badge/Linktree-ibrahim__qasmi-06b6d4?logo=linktree&labelColor=0d1117&logoColor=white"></a>
+  <a href="https://topmate.io/ibrahim_qasmi"><img src="https://img.shields.io/badge/Mentoring-Topmate-22c55e?labelColor=0d1117"></a>
+  <a href="https://lablab.ai/u/@qasmi92"><img src="https://img.shields.io/badge/Hackathons-Lablab.ai-0ea5e9?labelColor=0d1117"></a>
+  <a href="https://committers.top/pakistan#muhammadibrahim313"><img src="https://img.shields.io/badge/committers.top%20rank-PK%20%2339-64748b?labelColor=0d1117"></a>
+</p>
+
+
 
 
 <h1 align="center">Hi, I’m Muhammad Ibrahim Qasmi 👋</h1>
