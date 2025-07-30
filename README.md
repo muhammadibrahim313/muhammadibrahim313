@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadibrahim313&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadibrahim313&layout=compact&theme=tokyonight" height="165">
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Muhammad%20Ibrahim%20Qasmi&fontSize=50&fontColor=ffffff&color=0:0b1220,50:0891b2,100:38bdf8"
+    alt="Muhammad Ibrahim Qasmi header"
+    width="1440">
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadibrahim313&theme=tokyonight" height="165">
-</p>
+<h3 align="center">AI Engineer • Data Scientist • 3x Kaggle GM</h3>
 
 
 
