@@ -1,10 +1,14 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Muhammad%20Ibrahim%20Qasmi&fontSize=50&fontColor=ffffff&color=0:0b1220,50:0891b2,100:38bdf8"
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Muhammad%20Ibrahim%20Qasmi&fontSize=44&fontColor=ffffff&color=0:0b1220,100:0ea5e9"
     alt="Muhammad Ibrahim Qasmi header"
     width="1440">
 </p>
-<h3 align="center">AI Engineer • Data Scientist • 3x Kaggle GM</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Engineer%2C+Data+Scientist%2C+3x+Kaggle+GM;Building+useful+AI%2C+shipping+daily"
+       alt="subtitle typing">
+</p>
 
 
 
