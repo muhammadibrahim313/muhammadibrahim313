@@ -1,9 +1,11 @@
-<!-- Profile README for github.com/muhammadibrahim313 -->
+
 
 <p align="center">
-  <img src="assets/banner.png"
-       alt="Muhammad Ibrahim Qasmi | AI Engineer and Data Scientist"
-       width="1440">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&text=Muhammad%20Ibrahim%20Qasmi&fontAlign=50&fontSize=44&fontColor=ffffff&desc=AI%20Engineer%20•%20Data%20Scientist%20•%203x%20Kaggle%20GM&descAlign=50&descAlignY=70"
+    alt="Muhammad Ibrahim Qasmi | AI Engineer and Data Scientist"
+    width="1440"
+  >
 </p>
 
 
