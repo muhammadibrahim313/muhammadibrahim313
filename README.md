@@ -1,8 +1,11 @@
 <!-- Profile README for github.com/muhammadibrahim313 -->
 
 <p align="center">
-  <img src="https://github.com/muhammadibrahim313/muhammadibrahim313/blob/main/assets/banner.png?raw=1" alt="Muhammad Ibrahim Qasmi — AI Engineer and Data Scientist" width="100%">
+  <img src="assets/banner.png"
+       alt="Muhammad Ibrahim Qasmi | AI Engineer and Data Scientist"
+       width="1440">
 </p>
+
 
 <h1 align="center">Hi, I’m Muhammad Ibrahim Qasmi 👋</h1>
 <p align="center">
