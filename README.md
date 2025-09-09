@@ -4,7 +4,7 @@
     alt="Muhammad Ibrahim Qasmi header"
     width="1440">
 </p>
-
+[![Hits](https://hits.sh/github.com/HassanMehmood413.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c)](https://hits.sh/github.com/HassanMehmood413/) 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Engineer%2C+Data+Scientist%2C+3x+Kaggle+GM;Building+useful+AI%2C+shipping+daily"
        alt="subtitle typing">
